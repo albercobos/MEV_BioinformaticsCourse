@@ -69,7 +69,7 @@ foreach my $gene(@genes){ # for each of the genes in the gene_data hash
             }
            }
 
-exit 1;
+exit;
 
 #SUBROUTINES.
 
